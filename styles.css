@@ -5,10 +5,13 @@
 	background-color:black;
 	color: white;
 	border-radius: 5px;
+	border : 0px;
 }
 #btn:hover
 {
 	background-color:yellow;
 	color:black;
 	border-radius:30px;
+	cursor:pointer;
+	border : 0px;
 }
